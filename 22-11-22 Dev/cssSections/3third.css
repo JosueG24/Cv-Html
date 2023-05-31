@@ -1,0 +1,23 @@
+.sectionThird{
+    border-top: 1px solid #06283D;
+    width: 100%;
+    height: 27%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+    .th_knowledgeContainer{
+        border: 1px solid #06283d64;
+        width: 32%;
+        margin: 0.2rem 0.2em;
+        padding: 0 0.3rem;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 5px;
+    }
+    .th_knowledgeDescription{
+        text-align: justify;
+        font-size: 0.95rem;
+        line-height: 1.1rem;
+    }

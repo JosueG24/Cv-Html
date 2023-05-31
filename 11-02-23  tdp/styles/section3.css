@@ -1,0 +1,19 @@
+.s3__left{
+    border-right: 1px solid #06283D;
+    width: 50%;
+    height: 100%;
+}
+
+.s3__right{
+    width: 50%;
+    height: 100%;
+}
+
+.s3_list{
+    margin: 1em 1.5em;
+    list-style-type: symbols("-");
+    list-style-position: inside;
+}
+.s3_list li{
+    padding-bottom: 0.7em;
+}

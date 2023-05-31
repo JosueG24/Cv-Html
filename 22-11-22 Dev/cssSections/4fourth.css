@@ -1,0 +1,62 @@
+
+.sectionFourth{
+    border-top: 1px solid #06283D;
+    width: 100%;
+    height: 14.5%;
+    display: flex;
+}
+
+.fo_Education{
+    border: 1px solid #06283d64;
+    margin: 1rem 0;
+    border-radius: 5px;
+}
+.fo_Education-1{
+    width: 45%;
+}
+.fo_Education-2{
+    width: 55%;
+}
+
+.edu_flexor{
+    display: flex;
+}   
+    /* |One */
+    .edu_simple{
+
+    }
+    .div_sp12{
+        display: flex;
+        margin: 0.5rem 0 0 0;
+    }
+    .edu_sp1{
+        width: 40%;
+        text-align: center;
+    }
+    .edu_sp2{
+        width: 60%;
+        text-align: center
+    }
+    .edu_sp3{
+        padding: 0.5rem 1rem;
+    }
+
+    /* Other */
+    .edu_left{
+        width: 18%;
+    }
+        .edu_left__p2{
+            margin-top: 1rem;
+            text-align: center;
+        }
+
+    .edu_rigth{
+        width: 82%;
+        padding: 0.3rem;            
+    }
+        .edu_rigth__p2{
+
+        }
+        .edu_rigth a{
+            text-decoration: underline;
+        }

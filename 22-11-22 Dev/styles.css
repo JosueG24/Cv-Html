@@ -1,0 +1,21 @@
+body{
+    background-color: aqua;
+    font-family :"Hind Madurai", Helvetica, Arial, sans-serif;
+}
+
+.textUbuntu{
+    font-family: 'Ubuntu', sans-serif; 
+}
+
+.article_body{
+    background-color: white;
+    width: 210mm;
+    height: 297mm;
+    padding: 1.5rem;
+}
+
+/* Adicionales */
+
+.text-center{
+    text-align: center;
+}

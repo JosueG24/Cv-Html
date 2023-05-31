@@ -1,0 +1,73 @@
+body{
+    background-color: rgb(1, 50, 50);
+    font-family :"Hind Madurai", Helvetica, Arial, sans-serif;
+}
+
+.Page{
+    background-color: #ffffff;
+    width: 210mm;
+    height: 297mm;
+    padding: 1.5rem;
+}
+
+.section1{
+    width: 100%;
+    height: 37%;
+}
+.section2{
+    width: 100%;
+    height: 15%;
+}
+.section3{
+    border-top: 1px solid #06283D;
+    width: 100%;
+    height: 36%;
+    display: flex;
+}
+.section4{
+    border-top: 1px solid #06283D;
+    width: 100%;
+    height: 13%;
+}
+.section5{
+    border-top: 1px solid #06283D;
+    width: 100%;
+    height: 17%;
+}
+
+/* Adicionales */
+.titleSection{
+    font-size: 1.2em;
+    font-family: 'Ubuntu', sans-serif; 
+    text-align: center;
+    margin: 0.2em;
+}
+
+.txtUbuntu{
+    font-family: 'Ubuntu', sans-serif; 
+}
+
+.txtSmall{
+    font-size: 0.8em;
+}
+.txtMedium{
+    font-size: 1em;
+}
+.txtLarge{
+    font-size: 1.5em;
+}
+.txtCenter{
+    text-align: center;
+}
+
+.imFlex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+/*  adicionales */
+.pb_2{
+    padding-bottom: 0.3rem;
+}
